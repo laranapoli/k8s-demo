@@ -9,7 +9,7 @@
 ### K8s commands
 
 #### Start Minikube and check status
-    minikube start --vm-driver=docker 
+    minikube start --driver=docker 
     minikube status
 
 #### Deploy components
